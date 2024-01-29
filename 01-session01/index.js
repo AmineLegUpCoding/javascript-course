@@ -44,7 +44,7 @@ function inscrire(){
 
     if (age == 19) {
         var statut = "etudiant"
-       
+        console.log("okkkkk")
     }
     
 }
